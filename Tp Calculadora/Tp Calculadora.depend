@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554474100 source:e:\tareas\tp calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"math.h"
+	<windows.h>
+
+1554495112 e:\tareas\tp calculadora\math.h
+
+1554495112 source:e:\tareas\tp calculadora\math.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
